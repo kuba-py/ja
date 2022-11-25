@@ -1,0 +1,1 @@
+export PATH=~/.cache/rebar3/bin:$PATH
